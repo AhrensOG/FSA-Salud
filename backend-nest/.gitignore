@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+
+# build
+/dist
+
+# database
+/data
+
+# env
+.env*
+
+# IDE
+.idea/
+.vscode/
+
+# misc
+*.tsbuildinfo

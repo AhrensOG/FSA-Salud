@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# builds
+.next/
+out/
+dist/
+
+# database (backend)
+backend-nest/data/
+
+# env files
+.env
+.env.*
+
+# vercel
+.vercel/
+
+# misc
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
